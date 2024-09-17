@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,Code.exe
+  - PROCESS-NAME,git.exe
+  - PROCESS-NAME,idea64.exe
+  - PROCESS-NAME,telegram.exe
