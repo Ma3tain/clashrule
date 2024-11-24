@@ -53,4 +53,5 @@ payload:
   - DOMAIN-KEYWORD,odysseyplus
   - PROCESS-NAME,com.mb.android
   - DOMAIN-SUFFIX,pe.cn2gias.uk
-  - PROCESS-NAME-REGEX,(?i)Emby,emby
+  - PROCESS-NAME-REGEX,(?i)Emby
+  - PROCESS-NAME,femor.exe
