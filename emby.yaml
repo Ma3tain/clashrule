@@ -53,6 +53,7 @@ payload:
   - DOMAIN-KEYWORD,niceduck
   - DOMAIN-KEYWORD,odysseyplus
   - PROCESS-NAME,com.mb.android
+  - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,recmata.net
   - DOMAIN-SUFFIX,pe.cn2gias.uk
   - PROCESS-NAME-REGEX,(?i)Emby
-  - PROCESS-NAME-REGEX,(?i)femor
