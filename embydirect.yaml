@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,makima.online
-  - DOMAIN,film.recmata.net
-  - DOMAIN,flick.recmata.net
-  - DOMAIN,lumini.recmata.net
+  - DOMAIN-SUFFIX,film.recmata.net
+  - DOMAIN-SUFFIX,flick.recmata.net
+  - DOMAIN-SUFFIX,lumini.recmata.net
   - DOMAIN-SUFFIX,wenjian.de
