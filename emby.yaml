@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,stream.synn.cc
   - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-KEYWORD,niceduck
+  - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,vision.recmata.net
   - DOMAIN-SUFFIX,pe.cn2gias.uk
   - DOMAIN-SUFFIX,zox.show
