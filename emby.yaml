@@ -1,4 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,makima.online
+  - DOMAIN-SUFFIX,film.recmata.net
+  - DOMAIN-SUFFIX,flick.recmata.net
+  - DOMAIN-SUFFIX,lumini.recmata.net
   - DOMAIN-SUFFIX,stream.synn.cc
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,niceduck.lol
